@@ -1,5 +1,5 @@
 [package]
-name = "mac-screen-brightness-controller"
+name = "mac-light-controller"
 version = "0.1.0"
 authors = ["Wison Ye <wisonye@gmail.com>"]
 edition = "2018"
